@@ -13,25 +13,25 @@ Aplicação Lista de Recados
 *CRUD (create, read, update e delete)
 
 Implementação do que deve ser executado.
-(Criaçao da conta)
-● Dados do usuário:
-○ Identificador
-○ Nome
-○ E-mail
+(Criaçao da conta) <br>
+● Dados do usuário: <br>
+○ Identificador <br>
+○ Nome <br>
+○ E-mail <br>
 ○ Senha
 
-(CRUD de recados)
-● Dados de um recado:
-○ Identificador
-○ Título
-○ Descrição
+(CRUD de recados) <br>
+● Dados de um recado: <br>
+○ Identificador <br>
+○ Título <br>
+○ Descrição 
 
-● Login:
-○ E-mail
-○ Senha
+● Login: <br>
+○ E-mail <br>
+○ Senha 
 
 
-Regras:
-● Não pode ter mais de um usuário com o mesmo e-mail.
-● O login deve ser feito com e-mail e senha.
+Regras: <br>
+● Não pode ter mais de um usuário com o mesmo e-mail. <br>
+● O login deve ser feito com e-mail e senha. <br>
 ● Cada recado deve ser de um único usuário.
