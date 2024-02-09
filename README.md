@@ -5,9 +5,9 @@ Atividade Final do Módulo - Introdução ao back-end
 
 Aplicação Lista de Recados
 
-● Criar um back-end que contém as seguintes funcionalidades:
-○ Criação de conta
-○ Login
+● Criar um back-end que contém as seguintes funcionalidades: <br>
+○ Criação de conta <br>
+○ Login <br>
 ○ CRUD* de recados
 
 *CRUD (create, read, update e delete)
