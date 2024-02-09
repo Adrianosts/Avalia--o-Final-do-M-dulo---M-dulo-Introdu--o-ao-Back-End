@@ -12,7 +12,8 @@ Aplicação Lista de Recados
 
 *CRUD (create, read, update e delete)
 
-Implementação do que deve ser executado.
+Implementação do que deve ser executado. <br> 
+
 (Criaçao da conta) <br>
 ● Dados do usuário: <br>
 ○ Identificador <br>
